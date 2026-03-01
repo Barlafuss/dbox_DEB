@@ -105,3 +105,6 @@ alias Prmi='podman rmi'
 #Show podman disk usage
 alias Pdf='podman system df'
 alias dbox='echo "${CONTAINER_ID}"'
+# feh must be installed
+alias Display='feh -d -F -S filename .'
+alias SShow='feh -d -F -S filename -D 2'
