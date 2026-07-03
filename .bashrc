@@ -115,3 +115,4 @@ fi
 export PATH="$PATH:/snap/bin/libreoffice:$HOME/bin:$HOME/.local/bin:$HOME/.local/lib"
 #LS_COLORS=$LS_COLORS:'di=0;35:' ; export LS_COLORS
 alias bd=". bd -si"
+export BROWSER=/usr/bin/brave-browser
